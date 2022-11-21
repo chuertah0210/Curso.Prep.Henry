@@ -1,0 +1,3 @@
+1.- la instruccion `for`, permite marcar la repeticion de instrucciones hasta que se cumplan las condiones declaradas
+
+2.- `&&`, `||`, `!`  Estos son operadores logicos, lo que quiere decir que ayudan a comparar 2 valores, pueden ser "y", "o" o tambien "no". esto lo podemos usar de muchas formas
