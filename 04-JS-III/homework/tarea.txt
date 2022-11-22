@@ -1,0 +1,1 @@
+los array son conjuntos de datos ordenados, ahi puedes encontrar cualquier dato junto con otro (ya sean numeros, textos funciones, etc) son ordenados porque tienen lugares numerados donde se guarda la información y estos se llaman indices. 
