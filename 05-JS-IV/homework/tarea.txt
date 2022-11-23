@@ -1,0 +1,9 @@
+	* Objetos  Es una matriz, es como un array pero con pares de datos dentro ( llave y valor )
+
+	* Propiedades  son valores en pares, key y valor que se ubican dentro de los onjetos
+
+	* Métodos  son funciones que van dentro de las propiedades de un objeto
+
+	* Bucle `for…in` es un ciclo que permite navegar dentro de un objeto recorriendo sus propiedades
+	
+* Notación de puntos vs notación de corchetes  con la notacion de puntos puedes referirte al key de de una propiedad y con los corchetes a los valores
