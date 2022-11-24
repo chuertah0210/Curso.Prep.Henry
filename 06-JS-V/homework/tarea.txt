@@ -1,0 +1,4 @@
+
+* `prototype`  son las caracteristicas heredadas de las clases y estas pueden ser reutilizadas por muchas funciones 
+
+* _Constructors_ (de Clases)  son funciones para crear objetos, con esto no repetimos el codigo en cada cracipon de objeto
