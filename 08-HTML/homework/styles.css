@@ -1,3 +1,13 @@
+html{
+    background-image: url("logoOG.png");
+    display: flex;
+}
+
+.divClass{
+    display: grid;
+    align-items: center;
+}
+
 img 
 {
     width:400px; 
@@ -11,6 +21,8 @@ img
     padding: 50px;
     border-color: brown;
     border-style: double;
+    display: grid;
+    align-items: center;
 }
 #spanId
 {
